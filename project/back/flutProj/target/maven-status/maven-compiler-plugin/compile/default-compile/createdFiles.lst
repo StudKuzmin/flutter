@@ -1,0 +1,6 @@
+classes\controller\Service.class
+classes\model\Model.class
+classes\model\dbService\DBservice.class
+classes\controller\Config.class
+classes\model\entity\EUser.class
+classes\controller\CORSFilter.class
