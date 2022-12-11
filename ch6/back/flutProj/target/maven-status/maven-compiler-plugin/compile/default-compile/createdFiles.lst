@@ -1,0 +1,7 @@
+classes\model\Model.class
+classes\model\JWT\JwtModeling.class
+classes\model\entity\EUser.class
+classes\controller\Service.class
+classes\model\dbService\DBservice.class
+classes\controller\Config.class
+classes\controller\CORSFilter.class
